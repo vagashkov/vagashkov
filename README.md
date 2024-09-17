@@ -11,7 +11,7 @@
  </a>
 </p>
 
-# 👋 Hi, I’m [Vitali Agashkov](https://github.com/vagashkov)
+# 👋 Hi, I’m [Vitali](https://github.com/vagashkov)
 
 I'm a former HCL Domino developer with about 20 years of experience in this field now exploring new (for me) and fascinating world of web-based systems development.<br>
 I'm truly passionate about developing systems that can really make someone's life better or just interesting from an engineering point of view.<br>
