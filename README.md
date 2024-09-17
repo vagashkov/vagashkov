@@ -13,7 +13,6 @@
 
 # 👋 Hi, I’m [Vitali Agashkov](https://github.com/vagashkov)
 
-<img src="https://avatars.githubusercontent.com/u/60652198?v=4" width="240" alt="Profile image">
 I'm a former HCL Domino developer with about 20 years of experience in this field now exploring new (for me) and fascinating world of web-based systems development.<br>
 I'm truly passionate about developing systems that can really make someone's life better or just interesting from an engineering point of view.<br>
 Please feel free to contact me anytime.
