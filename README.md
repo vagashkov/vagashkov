@@ -6,8 +6,8 @@
  <a href="mailto:vitali.agashkov@gmail.com">
   <img src="https://img.shields.io/badge/Email-vitali.agashkov%40gmail.com-red?style=flat-square&logo=gmail">
  </a>&nbsp;
-  <a href="skype:vitali.agashkov">
-  <img src="https://img.shields.io/badge/Skype-vitali.agashkov-blue?style=flat-square&logo=skype">
+  <a href="t.me/Vertoletto">
+  <img src="https://img.shields.io/badge/Telegram-Vertoletto-blue?style=flat-square&logo=telegram">
  </a>
 </p>
 
